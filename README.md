@@ -6,5 +6,5 @@
 用plotly做同上的事情
 # h3.py
 用nicegui同上
-#llm demo
+# llm demo
 基于transformer架构的语言模型，包含多头注意力机制，前馈神经网络，编码器层和编码器，通过模拟训练数据进行了简单的训练
